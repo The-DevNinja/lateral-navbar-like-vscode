@@ -31,5 +31,5 @@ nav div {
 svg:hover {
     transition-duration: 0.5s;
     opacity: 1;
-    filter: drop-shadow(0 0 2em white);
+    filter: drop-shadow(0 0 1em white); /*in the tutorial video, was 2em*/
 }
