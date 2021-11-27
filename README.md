@@ -1,6 +1,6 @@
-# lateral-navbar-like-vscode
+# vscode SideBar Clone
 
 
 | YouTube Video Tutorial        |      Online Website                                        |
 |------------------------------ | ---------------------------------------------------------- |
-| NOT RELEASED YET  | https://the-devninja.github.io/lateral-navbar-like-vscode/ |
+| https://www.youtube.com/watch?v=-aQQTIAkMjw  | https://the-devninja.github.io/lateral-navbar-like-vscode/ |
