@@ -1,0 +1,1 @@
+# lateral-navbar-like-vscode
